@@ -11,6 +11,9 @@ app.get('/', (req, res) => {
   res.send('Server is running...')
 })
 
+app.get('/chefs', (req, res) => { 
+    res.send(chefs);
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
