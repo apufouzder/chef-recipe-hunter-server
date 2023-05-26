@@ -2,16 +2,16 @@
   "chefs": [
     {
       "id": 1,
-      "chefPicture": "https://example.com/chef1.jpg",
-      "chefName": "Chef Rahman",
-      "yearsOfExperience": 15,
-      "numberOfRecipes": 50,
-      "likes": 1000,
-      "bio": "Chef Rahman is a highly skilled Bangladeshi chef with 15 years of experience in the culinary industry. He specializes in traditional Bangladeshi cuisine and has developed a repertoire of 50 delicious recipes. Chef Rahman's passion for cooking started at a young age, and he has since honed his skills to create mouthwatering dishes that showcase the rich flavors and unique spices of Bangladeshi cuisine."
+      "chefPicture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?w=740&t=st=1684988595~exp=1684989195~hmac=fa1d4110dd09590afa433344d0eed0a5ede95be1926622988c8e7d5b5e7704d2",
+      "chefName": "Chef Islam",
+      "yearsOfExperience": 14,
+      "numberOfRecipes": 55,
+      "likes": 900,
+      "bio": "Chef Islam is a skilled Bangladeshi chef with 14 years of experience in the culinary world. He is known for his expertise in creating traditional Bangladeshi recipes with a modern twist. With a repertoire of 55 flavorful dishes, Chef Islam combines classic Bangladeshi ingredients and techniques with contemporary culinary trends, resulting in dishes that are both familiar and exciting."
     },
     {
       "id": 2,
-      "chefPicture": "https://example.com/chef2.jpg",
+      "chefPicture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1684988532~exp=1684989132~hmac=e0e75419e01e0ec5e2a7784af65871f18408165607f7ca1203c8ced00c2c085f",
       "chefName": "Chef Ahmed",
       "yearsOfExperience": 10,
       "numberOfRecipes": 30,
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "chefPicture": "https://example.com/chef3.jpg",
+      "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1684988535~exp=1684989135~hmac=def288c273e4281f3cbbcca24355b2cdbf22c0bf646af870d66d7943ea67d64c",
       "chefName": "Chef Khan",
       "yearsOfExperience": 20,
       "numberOfRecipes": 80,
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "chefPicture": "https://example.com/chef4.jpg",
+      "chefPicture": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-crosses-arms-points-side-isolated-orange-wall_141793-33303.jpg?w=740&t=st=1684988541~exp=1684989141~hmac=ebdb341b3ec9f9af3f7b1bc55ed8b62fe11d4bdc4084e4ac211ed134e0af1233",
       "chefName": "Chef Ali",
       "yearsOfExperience": 12,
       "numberOfRecipes": 60,
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "chefPicture": "https://example.com/chef5.jpg",
+      "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1684988554~exp=1684989154~hmac=7bf6214fb3e802804b7482fd4cb37d8edddd05314574213f95508d0bae074bdb",
       "chefName": "Chef Hasan",
       "yearsOfExperience": 8,
       "numberOfRecipes": 45,
@@ -47,21 +47,13 @@
     },
     {
       "id": 6,
-      "chefPicture": "https://example.com/chef6.jpg",
+      "chefPicture": "https://img.freepik.com/free-photo/young-african-american-female-posing-yellow_181624-52051.jpg?w=740&t=st=1684988576~exp=1684989176~hmac=487b9cc11a2dcd5fca23ad389483d205c02fe6f83d970a1c5dec39290c1399cf",
       "chefName": "Chef Begum",
       "yearsOfExperience": 18,
       "numberOfRecipes": 75,
       "likes": 1500,
       "bio": "Chef Begum is a highly experienced Bangladeshi chef with 18 years of culinary expertise. She is renowned for her mastery of traditional Bangladeshi recipes, which she showcases in her collection of 75 authentic dishes. Chef Begum's passion for preserving the cultural heritage of Bangladeshi cuisine shines through in her meticulously crafted dishes, bringing the flavors of Bangladesh to life with every bite."
-    },
-    {
-      "id": 7,
-      "chefPicture": "https://example.com/chef7.jpg",
-      "chefName": "Chef Islam",
-      "yearsOfExperience": 14,
-      "numberOfRecipes": 55,
-      "likes": 900,
-      "bio": "Chef Islam is a skilled Bangladeshi chef with 14 years of experience in the culinary world. He is known for his expertise in creating traditional Bangladeshi recipes with a modern twist. With a repertoire of 55 flavorful dishes, Chef Islam combines classic Bangladeshi ingredients and techniques with contemporary culinary trends, resulting in dishes that are both familiar and exciting."
     }
+    
   ]
 }
