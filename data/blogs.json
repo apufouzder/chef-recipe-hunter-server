@@ -1,0 +1,29 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Exploring the Flavors of Bangladeshi Cuisine",
+        "author": "Sarah Ahmed",
+        "publicationDate": "2023-05-15",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ut lectus eu elit dictum vulputate. Vestibulum vel ultrices nisi, sit amet euismod est. In vitae eros eget turpis pharetra rutrum. Nulla in nisl lacus. Cras volutpat orci a rutrum placerat. Quisque eu urna gravida, dictum ligula ac, finibus libero.",
+        "featuredImage": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "id": 2,
+        "title": "The Art of Spice Blending in Bangladeshi Cuisine",
+        "author": "Mohammed Rahman",
+        "publicationDate": "2023-05-18",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ut lectus eu elit dictum vulputate. Vestibulum vel ultrices nisi, sit amet euismod est. In vitae eros eget turpis pharetra rutrum. Nulla in nisl lacus. Cras volutpat orci a rutrum placerat. Quisque eu urna gravida, dictum ligula ac, finibus libero.",
+        "featuredImage": "https://plus.unsplash.com/premium_photo-1663852297801-d277b7af6594?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "id": 3,
+        "title": "Traditional Desserts of Bangladesh: A Sweet Journey",
+        "author": "Fatima Khan",
+        "publicationDate": "2023-05-20",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ut lectus eu elit dictum vulputate. Vestibulum vel ultrices nisi, sit amet euismod est. In vitae eros eget turpis pharetra rutrum. Nulla in nisl lacus. Cras volutpat orci a rutrum placerat. Quisque eu urna gravida, dictum ligula ac, finibus libero.",
+        "featuredImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+      }
+    ]
+  }
+  
